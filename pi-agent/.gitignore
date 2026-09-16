@@ -1,0 +1,4 @@
+config.json
+jobs/
+__pycache__/
+*.pyc

@@ -1,0 +1,7 @@
+{
+  "token": "CHANGE_ME_INSECURE_DEFAULT",
+  "bind": "127.0.0.1",
+  "port": 8787,
+  "jobs_dir": "jobs",
+  "job_timeout_seconds": 1800
+}
